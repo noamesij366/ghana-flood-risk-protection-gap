@@ -2,9 +2,6 @@
 Actuarial frequency-severity analysis of flood events in Ghana (2001–2023), 
 using data from the EM-DAT International Disaster Database.
 
-## Paper
-The full paper is available in [`paper/Ghana_Flood_Risk_Protection_Gap.pdf`](paper/Ghana_Flood_Risk_Protection_Gap.pdf)
-
 ## Summary
 - 25 flood events recorded between 2001 and 2023
 - Poisson model estimates a 66.3% annual probability of at least one flood
