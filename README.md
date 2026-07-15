@@ -17,3 +17,16 @@ The full paper is available in [`paper/Ghana_Flood_Risk_Protection_Gap.pdf`](pap
 - **Return period estimation:** Inverse CDF of fitted Lognormal distribution
 
 ## Repository Structure
+ghana-flood-risk-actuarial-analysis/
+│
+├── README.md
+├── LICENSE
+├── paper/
+│   └── Ghana_Flood_Risk_Protection_Gap.pdf
+├── notebooks/
+│   └── flood_risk_analysis.ipynb
+├── data/
+│   └── emdat_ghana_floods_2001_2023.xlsx
+├── figures/
+│   └── severity_distribution.png
+└── requirements.txt
